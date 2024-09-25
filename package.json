@@ -1,0 +1,17 @@
+{
+  "name": "saraeisazadeh",
+  "version": "1.0.0",
+  "main": "Lab5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "new-package": "^0.1.0",
+    "nodemon": "^3.1.7"
+  }
+}
